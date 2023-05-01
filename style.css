@@ -255,3 +255,10 @@ header {
 .login-register p a:hover {
   text-decoration: underline;
 }
+
+.mensagemBoasVindas
+{
+  color: white; font-size: 72px;
+  opacity: 0.75;
+  margin-top: 100px; margin-left: 150px;
+}
